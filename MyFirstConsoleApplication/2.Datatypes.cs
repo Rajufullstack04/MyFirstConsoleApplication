@@ -11,10 +11,13 @@
 
         //Console.WriteLine("byte maxvalue" + byte.MaxValue);
         //string interploation ---    ${ }
-        Console.WriteLine($"byte maxvalue : {byte.MaxValue}");
+        //Console.WriteLine($"byte maxvalue : {byte.MaxValue}");
 
         // Console.WriteLine("byte minvalue" + byte.MinValue);
-        Console.WriteLine($"byte minvalue :  {byte.MinValue}");
+        //Console.WriteLine($"byte minvalue :  {byte.MinValue}");
+
+
+        Console.WriteLine($"byte minvalue :  {byte.MinValue} byte maxvalue :{byte.MaxValue}");
 
 
 
@@ -25,6 +28,9 @@
 
         bool isChecked1 = false;
         Console.WriteLine(isChecked1);   // false;
+
+
+
 
         // X element --> from that element i am receing the ouput ---> output is the boolean . so then 
         // what could be element ???  checkbox
