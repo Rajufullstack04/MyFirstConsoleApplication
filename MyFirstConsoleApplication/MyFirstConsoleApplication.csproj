@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Looping_Mechanisam</StartupObject>
+    <StartupObject>Method_Basic</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="10.ConditionalStatementes.cs" />
     <Compile Include="11.Looping_Mechanisam.cs" />
+    <Compile Include="12.Mathod_Basic.cs" />
     <Compile Include="2.Datatypes.cs" />
     <Compile Include="1.Program.cs" />
     <Compile Include="6.TypeConversation.cs" />
