@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleReadLine</StartupObject>
+    <StartupObject>Looping_Mechanisam</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,11 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10.ConditionalStatementes.cs" />
+    <Compile Include="11.Looping_Mechanisam.cs" />
     <Compile Include="2.Datatypes.cs" />
     <Compile Include="1.Program.cs" />
     <Compile Include="6.TypeConversation.cs" />
     <Compile Include="7.Arrays.cs" />
     <Compile Include="8.ConsoleReadLineDemo.cs" />
+    <Compile Include="9.Oprators.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="3.VarAndDynamic.cs" />
     <Compile Include="4.StringExampul.cs" />

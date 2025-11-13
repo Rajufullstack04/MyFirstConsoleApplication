@@ -54,8 +54,8 @@
 
         // by using foreach we can print all values at a time.
 
-        foreach (string s in SubjectNames1) { 
-            Console.WriteLine(s);
+        foreach (string AllSubjects in SubjectNames1) { 
+            Console.WriteLine(AllSubjects);
         }
 
 
